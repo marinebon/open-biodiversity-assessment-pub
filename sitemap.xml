@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://marinebon.github.io/open-biodiversity-assessment-pub/index.html</loc>
-    <lastmod>2023-04-07T15:19:07.202Z</lastmod>
+    <lastmod>2023-04-07T16:00:27.250Z</lastmod>
   </url>
   <url>
     <loc>https://marinebon.github.io/open-biodiversity-assessment-pub/content/acknowledgements.html</loc>
-    <lastmod>2023-04-07T15:19:09.790Z</lastmod>
+    <lastmod>2023-04-07T16:00:29.286Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marinebon.github.io/open-biodiversity-assessment-pub/content/outline.html</loc>
+    <lastmod>2023-04-07T16:00:29.626Z</lastmod>
   </url>
 </urlset>
