@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  title: "Open Biodiversity Assessment" 
+  site-url: "https://marinebon.github.io/open-biodiversity-assessment-pub" 
+  repo-url: "https://github.com/marinebon/open-biodiversity-assessment-pub"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -33,16 +33,6 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/add-content.qmd
-        text: Add content
-      - href: content/customizing.qmd
-        text: Customizing
-      - href: content/rendering.qmd
-        text: Rendering
-      - href: content/rmarkdown.Rmd
-        text: R Markdown files
-      - href: content/code.qmd
-        text: Code in your files
       - href: content/acknowledgements.qmd
         text: Acknowledgements
 
