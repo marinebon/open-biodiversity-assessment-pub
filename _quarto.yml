@@ -35,6 +35,8 @@ website:
         text: Home
       - href: content/acknowledgements.qmd
         text: Acknowledgements
+      - href: content/outline.qmd
+        text: Draft Outline
 
 format:
   html:

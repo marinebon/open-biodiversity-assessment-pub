@@ -1,0 +1,22 @@
+---
+title: Outline
+---
+
+## outline of the publication
+
+1. why OBIS/GBIF
+1. choosing the region of interest
+  1. why this region is interesting
+  1. why this region is good in terms of data sampling
+    1. is this region evenly sampled?
+1. choosing the ES(n) indicator
+  1. how does ES(n) compare to Shan/Simpson/etc
+  1. what ES-number is best
+  1. what spatial granularity is best
+  1. what temporal granularity is best
+1. findings in this area
+  1. biodiversity change over time
+  1. how biodiveristy hotspots correlate with
+    1. habitat maps
+    1. temperature, NDVI, chlorophyll, other sat products
+  1. relevant takeaways for resource managers
